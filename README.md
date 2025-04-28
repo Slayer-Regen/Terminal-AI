@@ -72,8 +72,7 @@ As a college student or beginner developer:
 | Technology | Purpose |
 |------------|---------|
 | **Python** | CLI backend, command execution |
-| **OpenAI / LLM** | Understand natural language prompts |
-| **GitHub API** | Remote repository management |
+| **OpenAI** | Understand natural language prompts |
 | **Shell Commands** | Local file operations and Git handling |
 | **dotenv** | Secure environment variables |
 | **requests** | API requests to GitHub |
@@ -94,8 +93,7 @@ As a college student or beginner developer:
 
 3. Set up `.env` file with your API keys:
    ```env
-   GITHUB_TOKEN=your_github_token
-   OPENAI_API_KEY=your_openai_api_key
+   GEMINI_API_KEY=your_gemini_api_key
    ```
 
 4. Run Terminal AI:
@@ -117,25 +115,6 @@ create a node express server with authentication
 push this project to github
 ```
 
----
-
-## 🧱 Contributing
-
-Contributions are welcome!  
-Please feel free to fork the repo and submit pull requests. Check the [issues](https://github.com/yourusername/terminal-ai/issues) page for feature ideas.
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-## 💬 Connect
-
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- GitHub: [Your GitHub](https://github.com/yourusername)
 
 ---
 
